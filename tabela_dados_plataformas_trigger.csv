@@ -1,0 +1,6 @@
+id,cidade_id,plataforma,ouvintes_ativos,views_mes,artistas_em_alta,taxa_crescimento,data_coleta
+101,1,Spotify,580000,2000000,"[""Gapes"", ""Falkee""]",12.5,2025-06-17T10:00:00Z
+102,2,TikTok,140000,3200000,"[""Pibara"", ""Barsí""]",31.2,2025-06-17T10:00:00Z
+103,3,YouTube,230000,2800000,"[""Doug B"", ""Akkuma""]",24.1,2025-06-17T10:00:00Z
+104,4,Spotify,180000,1700000,"[""Barsí"", ""Gapes""]",18.3,2025-06-17T10:00:00Z
+105,5,TikTok,210000,3000000,"[""Falkee"", ""Doug B""]",27.8,2025-06-17T10:00:00Z
