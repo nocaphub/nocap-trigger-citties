@@ -1,0 +1,6 @@
+id,nome,pais,categoria,palavras_chave,populacao_estimativa,idioma_dominante,nivel_consumo_digital,Latitude,Longitude
+1,São Paulo,Brasil,Tier 1,"[""urbano"", ""trap"", ""viral""]",12300000,pt-BR,0.95,-23.5505,-46.6333
+2,Recife,Brasil,Tier 2,"[""brega funk"", ""coreografia"", ""challenge""]",1650000,pt-BR,0.89,-8.0476,-34.877
+3,Salvador,Brasil,Tier 2,"[""afrobeat"", ""samba trap"", ""voz feminina""]",2900000,pt-BR,0.85,-12.9714,-38.5016
+4,Belo Horizonte,Brasil,Tier 2,"[""melodia"", ""voz forte"", ""rap lírico""]",2500000,pt-BR,0.82,-19.9167,-43.9345
+5,Fortaleza,Brasil,Tier 2,"[""dança"", ""viral"", ""gírias locais""]",2700000,pt-BR,0.87,-3.7172,-38.5433
